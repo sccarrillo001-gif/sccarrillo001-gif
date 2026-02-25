@@ -1,1 +1,1 @@
-<img width="1100" height="400" alt="Gabriela Chajón (1)" src="https://github.com/user-attachments/assets/04284a15-8228-456c-8efc-00fe5e1e1821" />
+<img width="1000" height="300" alt="Gabriela Chajón (2)" src="https://github.com/user-attachments/assets/35afdc21-f16e-473f-b684-94ac409d3cbb" />
